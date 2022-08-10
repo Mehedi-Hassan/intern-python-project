@@ -63,3 +63,7 @@ Here is a sample log,
   * use a decorator to log the execution time
   * you can maintain a `set` or `dict` object to keep track of the used jokes. for more fun, use a sql database, (for example, sqlite), to keep track of the used jokes. write a uniquness_checker context manager.
 </details>
+
+
+## Execution log
+![screenshot of execution log](execution-log.png?raw=true "Title")
