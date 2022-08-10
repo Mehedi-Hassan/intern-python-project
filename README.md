@@ -66,4 +66,5 @@ Here is a sample log,
 
 
 ## Execution log
+Two post requests can be seen in the third entry of "Posting tweet". The first of two "Time taken" entries denote the error due to expired token. After generating new token the tweet is posted as per the second "Time taken" entry.
 ![screenshot of execution log](execution-log.png?raw=true "Title")
